@@ -1,8 +1,0 @@
-
-2.4 pages from amr 
-
-3.mouse listener 
-
-4.privilges of number and string in login and all
-
-5.featcese of admin comment
